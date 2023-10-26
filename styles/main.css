@@ -1,0 +1,10 @@
+html {
+  background: #000;
+}
+
+main {
+  height: 812px;
+  width: 375px;
+  background: #eaeaea;
+  margin: auto;
+}
